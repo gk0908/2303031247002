@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.0",
+    "react-route": "^1.0.3"
+  }
+}
